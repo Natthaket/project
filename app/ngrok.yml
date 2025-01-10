@@ -1,0 +1,7 @@
+version: "2"
+agent:
+	authtoken: 2rITmly5XDJdFTuPst2d8f7HTdE_7kLn5KjnYijmPLF1o4oJQ
+tunnels:
+  web:
+    proto: http
+    addr: 5000
